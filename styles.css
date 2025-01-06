@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa;
+    padding-top: 20px;
+}
+
+.blog-post {
+    margin-bottom: 40px;
+}
+
+.blog-post h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.blog-post p {
+    font-size: 1.2rem;
+}
+
+.blog-post small {
+    color: #6c757d;
+}
